@@ -8,3 +8,7 @@ DanmakuFlameMaster库的项目主页地址是：https://github.com/Bilibili/Danm
 dependencies {
     compile 'com.github.ctiao:DanmakuFlameMaster:0.5.3'
 }
+
+
+示例：
+![gif](https://github.com/wangdongmeng/DanmuApplication/blob/master/app/sample/danmu.gif)
